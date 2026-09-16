@@ -37,7 +37,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 
 ### [The Surgery](https://github.com/Doeugh/Triggered_Events)
-> **Built with:** C#
+> **Built with:** Unity · C#
 > 
 > A small horror game where the player navigates through an eerie hospital looking for organs
 
