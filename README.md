@@ -19,16 +19,19 @@ I mainly code in C#, but in the past I also have coded in;
 
 ### [Sphere Games](https://github.com/Xd0uc3tt3/Roll_A_Ball) 
 > **Built with:** Unity · C#
+> 
 > A project based on Unity's Roll a Ball Tutorial
 
 
 ### [The Surgery](https://github.com/Xd0uc3tt3/Triggered_Events)
 > **Built with:** C#
+> 
 > A small horror game where the player navigates through a eerie hospital looking for organs
 
 
 ### [Playable RPG](https://github.com/Xd0uc3tt3/RPGPlayable)
 > **Built with:** C#
+> 
 > A small console RPG game
 
 
