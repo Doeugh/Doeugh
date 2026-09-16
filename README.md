@@ -13,7 +13,7 @@ So far, I've worked on a variety of projects using C#, ranging from 2D and 3D Un
 During my studies, I'm mainly focused on improving my programming skills and becoming more familiar with the Unity Editor.
 
 ## Current Projects
-### [Roll A Ball 2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
+### [Roll A Ball 2](https://github.com/Xd0uc3tt3/RollABall2)
 > **Built with:** Unity · C#
 > 
 > This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
