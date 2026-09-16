@@ -49,7 +49,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 
 ### Sphere Games Gameplay
-[![Sphere Games Gameplay](./Images/SphereGamesThumbail.jpg)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
+[![Sphere Games Gameplay](./Images/SphereGamesMainMenu.png)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
 
 > Latest Update for Sphere Games
 
