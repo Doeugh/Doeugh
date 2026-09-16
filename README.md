@@ -53,6 +53,17 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 > Latest Update for Sphere Games
 
+
+### The Surgery Gameplay
+[![The Surgery Gameplay](./Images/TheSurgeryThumbail.jpg)](https://www.youtube.com/watch?v=DqySUmCha9c&list=PLjWvuxl1KjdBnxDs8Soxvh4lPjK2y5rUe&index=7)
+
+> Full Gameplay Walkthrough for The Surgery
+
+
+## Image Gallery
+
+Coming soon...
+
 ## Contact Me
 Email me at DoucetteXander@gmail.com
 
