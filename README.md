@@ -6,6 +6,12 @@ I mainly code in C#, but in the past I also have coded in;
 * JavaScript
 + HTML & CSS (if you count that as coding)
 
+I'm interested in the game development process, from designing gameplay and story elements to coding the systems that bring those ideas to life.
+
+So far, I've worked on a variety of projects using C#, ranging from 2D and 3D Unity projects to simple console programs.
+
+During my studies, I'm mainly focused on improving my programming skills and becoming more familiar with the Unity Editor.
+
 ## Current Projects
 ### [Roll A Ball 2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
 > **Built with:** Unity · C#
