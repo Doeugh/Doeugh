@@ -24,11 +24,16 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 
 ## Past Projects 
-### [Country-Side Bakery](https://github.com/Doeugh/GameEngFinal) 
-> **Built with:** Unity · C#
-> 
-> A small 2D game where the player collects ingredients for their bakery
+<details>
+<summary><strong>Country-Side Bakery</strong></summary>
 
+**Built with:** Unity · C#
+
+A small 2D game where the player collects ingredients for their bakery.
+
+[View Project](https://github.com/Doeugh/GameEngFinal)
+
+</details>
 
 ### [Sphere Games](https://github.com/Doeugh/Roll_A_Ball) 
 > **Built with:** Unity · C#
