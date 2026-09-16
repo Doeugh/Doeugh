@@ -64,7 +64,8 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 ## Image Gallery
 
-Coming soon...
+![Baked Lighting](./Images/BakedLighting1.png)
+More coming soon...
 
 ## Contact Me
 Email me at DoucetteXander@gmail.com
