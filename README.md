@@ -64,7 +64,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 ## Image Gallery
 
-![Baked Lighting](./Images/BakedLighting1.png)
+<img src="./Images/BakedLighting1.png" alt="Baked Lighting" width="500">
 More coming soon...
 
 ## Contact Me
