@@ -5,12 +5,12 @@ I mainly code in C#, but I also have coded in; Python, JavaScript, and HTML (if 
 
 ## Current Projects
 [Roll A Ball2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
-This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
+> This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
 
 ## Past Projects 
 [Country Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal) 
 **Built with:** Unity · C#
->A small 2d game where the player collects ingredients for their bakery
+> A small 2d game where the player collects ingredients for their bakery
 
 
 [Sphere Games](https://github.com/Xd0uc3tt3/Roll_A_Ball) 
