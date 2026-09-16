@@ -7,7 +7,9 @@ I mainly code in C#, but in the past I also have coded in;
 + HTML (if you count that as coding)
 
 ## Current Projects
-[Roll A Ball 2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
+### [Roll A Ball 2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
+> **Built with:** Unity · C#
+> 
 > This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
 
 ## Past Projects 
