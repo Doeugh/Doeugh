@@ -2,7 +2,7 @@
 ## About Me 
 Hey I'm Xander, Currently a second year student at NSCC Truro currently studying Game Programming. 
 
-I mainly code in C#, but I also have coded in; 
+I mainly code in C#, but in the past I also have coded in; 
 - Python
 * JavaScript
 + HTML (if you count that as coding)
