@@ -82,8 +82,6 @@ More coming soon...
 
 </details>
 
-More coming soon...
-
 ## Contact Me
 Email me at DoucetteXander@gmail.com
 
