@@ -1,4 +1,14 @@
-## Hi there 👋
+## WIP
+## About Me 
+/ Resume / Work Experience Page
+
+## Projects 
+or Portfolio Page (with at least 1–2 pieces of content)
+
+## Media Links
+
+## Contact Me
+Email me at DoucetteXander@gmail.com
 
 <!--
 **Xd0uc3tt3/Xd0uc3tt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
