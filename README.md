@@ -1,11 +1,20 @@
-## WIP
+## WIP Bio
 ## About Me 
-/ Resume / Work Experience Page
+Hey I'm Xander, Currently a second year student at NSCC Truro currently studying Game Programming
 
-## Projects 
-or Portfolio Page (with at least 1–2 pieces of content)
+## Current Projects
+[Roll A Ball2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
+This project is very similar to my older Roll a Ball project, but I'm returning to the concept
+
+## Past Projects 
+[Country Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal)| A small 2d game where the player collects ingredients for their bakery |
+
+[Roll A Ball](https://github.com/Xd0uc3tt3/Roll_A_Ball)| A project based on Unity's Roll a Ball Tutorial |
+
+[Playable RPG](https://github.com/Xd0uc3tt3/RPGPlayable)| A small console game |
 
 ## Media Links
+https://www.youtube.com/@Xander-GameDev
 
 ## Contact Me
 Email me at DoucetteXander@gmail.com
