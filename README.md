@@ -11,31 +11,31 @@ I mainly code in C#, but in the past I also have coded in;
 During my studies, I'm mainly focused on improving my programming skills and becoming more familiar with the Unity Editor.
 
 ## Current Projects
-### [Roll A Ball 2](https://github.com/Xd0uc3tt3/RollABall2)
+### [Roll A Ball 2](https://github.com/Doeugh/RollABall2)
 > **Built with:** Unity · C#
 > 
 > This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
 
 ## Past Projects 
-### [Country-Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal) 
+### [Country-Side Bakery](https://github.com/Doeugh/GameEngFinal) 
 > **Built with:** Unity · C#
 > 
 > A small 2d game where the player collects ingredients for their bakery
 
 
-### [Sphere Games](https://github.com/Xd0uc3tt3/Roll_A_Ball) 
+### [Sphere Games](https://github.com/Doeugh/Roll_A_Ball) 
 > **Built with:** Unity · C#
 > 
 > A project based on Unity's Roll a Ball Tutorial
 
 
-### [The Surgery](https://github.com/Xd0uc3tt3/Triggered_Events)
+### [The Surgery](https://github.com/Doeugh/Triggered_Events)
 > **Built with:** C#
 > 
 > A small horror game where the player navigates through a eerie hospital looking for organs
 
 
-### [Playable RPG](https://github.com/Xd0uc3tt3/RPGPlayable)
+### [Playable RPG](https://github.com/Doeugh/RPGPlayable)
 > **Built with:** C#
 > 
 > A small console RPG game
