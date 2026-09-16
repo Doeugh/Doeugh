@@ -25,8 +25,10 @@ I mainly code in C#, but I also have coded in; Python, JavaScript, and HTML (if 
 
 ## Media Links
 [Youtube Channel](https://www.youtube.com/@Xander-GameDev) 
+> Main Channel
 
 [![Sphere Games Gameplay](https://img.youtube.com/vi/BdnyujI1gpk/maxresdefault.jpg)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
+> Latest Update for Sphere Games
 
 ## Contact Me
 Email me at DoucetteXander@gmail.com
