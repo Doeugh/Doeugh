@@ -47,7 +47,8 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ### [Youtube Channel](https://www.youtube.com/@Xander-GameDev) 
 > Main Channel
 
-[![Sphere Games Gameplay](https://img.youtube.com/vi/BdnyujI1gpk/maxresdefault.jpg)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
+[![Sphere Games Gameplay](./Images/spheregamesthumbnail.jpg)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
+
 > Latest Update for Sphere Games
 
 ## Contact Me
