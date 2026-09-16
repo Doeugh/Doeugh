@@ -1,6 +1,7 @@
 ## WIP Bio
 ## About Me 
-Hey I'm Xander, Currently a second year student at NSCC Truro currently studying Game Programming
+Hey I'm Xander, Currently a second year student at NSCC Truro currently studying Game Programming.
+
 I mainly code in C#, but I also have coded in; Python, JavaScript, and HTML (if you count that)
 
 ## Current Projects
