@@ -1,20 +1,23 @@
 ## WIP Bio
 ## About Me 
 Hey I'm Xander, Currently a second year student at NSCC Truro currently studying Game Programming
+I mainly code in C#, but I also have coded in; Python, JavaScript, and HTML (if you count that)
 
 ## Current Projects
 [Roll A Ball2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
-This project is very similar to my older Roll a Ball project, but I'm returning to the concept
+This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
 
 ## Past Projects 
 [Country Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal) 
 A small 2d game where the player collects ingredients for their bakery
+**Built with:** Unity · C#
 
 [Sphere Games](https://github.com/Xd0uc3tt3/Roll_A_Ball) 
 A project based on Unity's Roll a Ball Tutorial
+**Built with:** Unity · C#
 
 [Playable RPG](https://github.com/Xd0uc3tt3/RPGPlayable)
-A small console game
+A small console RPG game
 
 ## Media Links
 https://www.youtube.com/@Xander-GameDev
