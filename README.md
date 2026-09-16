@@ -4,7 +4,7 @@ Hey I'm Xander, Currently a second year student at NSCC Truro currently studying
 I mainly code in C#, but in the past I also have coded in; 
 - Python
 * JavaScript
-+ HTML (if you count that as coding)
++ HTML & CSS (if you count that as coding)
 
 ## Current Projects
 ### [Roll A Ball 2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
