@@ -55,7 +55,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 
 ### The Surgery Gameplay
-[![The Surgery Gameplay](./Images/TheSurgeryThumbail.jpg)](https://www.youtube.com/watch?v=DqySUmCha9c&list=PLjWvuxl1KjdBnxDs8Soxvh4lPjK2y5rUe&index=7)
+[![The Surgery Gameplay](./Images/TheSurgeryThumbail.png)](https://www.youtube.com/watch?v=DqySUmCha9c&list=PLjWvuxl1KjdBnxDs8Soxvh4lPjK2y5rUe&index=7)
 
 > Full Gameplay Walkthrough for The Surgery
 
