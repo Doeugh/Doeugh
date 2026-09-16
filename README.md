@@ -1,5 +1,5 @@
 ## About Me 
-Hey I'm Xander, Currently a second year student at NSCC Truro currently studying Game Programming. 
+Hey, I'm Xander. I'm currently a second-year student at NSCC Truro, studying Game Programming.
 
 I mainly code in C#, but in the past I also have coded in; 
 - Python
