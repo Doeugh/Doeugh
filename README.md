@@ -10,7 +10,7 @@ This project is very similar to my older Roll a Ball project, but I'm returning 
 [Country Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal) 
 A small 2d game where the player collects ingredients for their bakery
 
-[Roll A Ball](https://github.com/Xd0uc3tt3/Roll_A_Ball) 
+[Sphere Games](https://github.com/Xd0uc3tt3/Roll_A_Ball) 
 A project based on Unity's Roll a Ball Tutorial
 
 [Playable RPG](https://github.com/Xd0uc3tt3/RPGPlayable)
@@ -18,6 +18,8 @@ A small console game
 
 ## Media Links
 https://www.youtube.com/@Xander-GameDev
+
+[![Sphere Games Gameplay](https://img.youtube.com/vi/BdnyujI1gpk/maxresdefault.jpg)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
 
 ## Contact Me
 Email me at DoucetteXander@gmail.com
