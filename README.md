@@ -4,7 +4,7 @@ Hey I'm Xander, Currently a second year student at NSCC Truro currently studying
 I mainly code in C#, but I also have coded in; Python, JavaScript, and HTML (if you count that)
 
 ## Current Projects
-[Roll A Ball2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
+[Roll A Ball 2](https://github.com/Xd0uc3tt3/Roll_A_Ball2)
 > This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
 
 ## Past Projects 
