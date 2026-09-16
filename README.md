@@ -3,7 +3,7 @@ Hey, I'm Xander. I'm currently a second-year student at NSCC Truro, studying Gam
 
 I started making games when I was 11 using Scratch, and have since moved on to C# and Unity. Since then, I've worked on a variety of projects, ranging from 2D and 3D Unity games to simple console programs.
 
-I mainly code in C#, but in the past I also have coded in; 
+I mainly code in C#, but I've also worked with; 
 - Python
 * JavaScript
 + HTML & CSS (if you count that as coding)
@@ -20,7 +20,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ### [Country-Side Bakery](https://github.com/Doeugh/GameEngFinal) 
 > **Built with:** Unity · C#
 > 
-> A small 2d game where the player collects ingredients for their bakery
+> A small 2D game where the player collects ingredients for their bakery
 
 
 ### [Sphere Games](https://github.com/Doeugh/Roll_A_Ball) 
@@ -32,7 +32,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ### [The Surgery](https://github.com/Doeugh/Triggered_Events)
 > **Built with:** C#
 > 
-> A small horror game where the player navigates through a eerie hospital looking for organs
+> A small horror game where the player navigates through an eerie hospital looking for organs
 
 
 ### [Playable RPG](https://github.com/Doeugh/RPGPlayable)
@@ -42,7 +42,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 
 ## Media Links
-### [Youtube Channel](https://www.youtube.com/@Xander-GameDev) 
+### [YouTube Channel](https://www.youtube.com/@Xander-GameDev) 
 > Main Channel
 
 ### Country-Side Bakery Gameplay
