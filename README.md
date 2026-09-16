@@ -10,18 +10,18 @@ This project returns to the concept of using Unity's Roll A Ball tutorial and ex
 ## Past Projects 
 [Country Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal) 
 **Built with:** Unity · C#
+>A small 2d game where the player collects ingredients for their bakery
 
-A small 2d game where the player collects ingredients for their bakery
 
 [Sphere Games](https://github.com/Xd0uc3tt3/Roll_A_Ball) 
 **Built with:** Unity · C#
+> A project based on Unity's Roll a Ball Tutorial
 
-A project based on Unity's Roll a Ball Tutorial
 
 [Playable RPG](https://github.com/Xd0uc3tt3/RPGPlayable)
 **Built with:** C#
+> A small console RPG game
 
-A small console RPG game
 
 ## Media Links
 [Youtube Channel](https://www.youtube.com/@Xander-GameDev) 
