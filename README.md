@@ -19,7 +19,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 > This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
 
 ## Past Projects 
-### [Country Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal) 
+### [Country-Side Bakery](https://github.com/Xd0uc3tt3/GameEngFinal) 
 > **Built with:** Unity · C#
 > 
 > A small 2d game where the player collects ingredients for their bakery
@@ -47,6 +47,10 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ### [Youtube Channel](https://www.youtube.com/@Xander-GameDev) 
 > Main Channel
 
+### Country-Side Bakery Gameplay
+[![Country-Side Bakery](./Images/CountrySideBakeryThumbnail.png)](https://www.youtube.com/watch?v=LOdNJT-4Am8&list=PLjWvuxl1KjdDAQfzHqSxDSf5vPZs5V8qO)
+
+> Full Gameplay Walkthrough for Country-Side Bakery
 
 ### Sphere Games Gameplay
 [![Sphere Games Gameplay](./Images/SphereGamesMainMenu.png)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
