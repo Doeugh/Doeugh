@@ -20,7 +20,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ### [UnCloudy Valley](https://github.com/Doeugh/UnCloudyValley)
 > **Built with:** Unity · C#
 > 
-> My current passion project that I've been thinking about making for a long time
+> My current passion project
 
 
 ## Past Projects 
