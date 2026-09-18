@@ -43,11 +43,29 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 > 
 > A project based on Unity's Roll a Ball Tutorial
 
+<details>
+<summary>Click to view more</summary>
+
+[![Sphere Games Gameplay](./Images/SphereGamesMainMenu.png)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
+
+> Latest Update for Sphere Games
+
+</details>
+
 
 ### [The Surgery](https://github.com/Doeugh/Triggered_Events)
 > **Built with:** Unity · C#
 > 
 > A small horror game where the player navigates through an eerie hospital looking for organs
+
+<details>
+<summary>Click to view more</summary>
+
+[![The Surgery Gameplay](./Images/TheSurgeryThumbail.png)](https://www.youtube.com/watch?v=DqySUmCha9c&list=PLjWvuxl1KjdBnxDs8Soxvh4lPjK2y5rUe&index=7)
+
+> Full Gameplay Walkthrough for The Surgery
+
+</details>
 
 
 ### [Playable RPG](https://github.com/Doeugh/RPGPlayable)
@@ -59,23 +77,6 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ## Media Links
 ### [YouTube Channel](https://www.youtube.com/@Xander-GameDev) 
 > Main Channel
-
-### Country-Side Bakery Gameplay
-[![Country-Side Bakery](./Images/CountrySideBakeryThumbnail.png)](https://www.youtube.com/watch?v=LOdNJT-4Am8&list=PLjWvuxl1KjdDAQfzHqSxDSf5vPZs5V8qO)
-
-> Full Gameplay Walkthrough for Country-Side Bakery
-
-### Sphere Games Gameplay
-[![Sphere Games Gameplay](./Images/SphereGamesMainMenu.png)](https://www.youtube.com/watch?v=BdnyujI1gpk&list=PLjWvuxl1KjdDsAKhfa0l8lGnQjYpdSH0p)
-
-> Latest Update for Sphere Games
-
-
-### The Surgery Gameplay
-[![The Surgery Gameplay](./Images/TheSurgeryThumbail.png)](https://www.youtube.com/watch?v=DqySUmCha9c&list=PLjWvuxl1KjdBnxDs8Soxvh4lPjK2y5rUe&index=7)
-
-> Full Gameplay Walkthrough for The Surgery
-
 
 ## Image Gallery
 
