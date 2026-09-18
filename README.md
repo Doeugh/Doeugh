@@ -29,9 +29,13 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 > 
 > A small 2D game where the player collects ingredients for their bakery
 
+<details>
+<summary>Click to view more</summary>
 [![Country-Side Bakery](./Images/CountrySideBakeryThumbnail.png)](https://www.youtube.com/watch?v=LOdNJT-4Am8&list=PLjWvuxl1KjdDAQfzHqSxDSf5vPZs5V8qO)
 
 > Full Gameplay Walkthrough for Country-Side Bakery
+
+</details>
 
 ### [Sphere Games](https://github.com/Doeugh/Roll_A_Ball) 
 > **Built with:** Unity · C#
