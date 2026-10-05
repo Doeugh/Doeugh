@@ -11,10 +11,10 @@ I mainly code in C#, but I've also worked with;
 During my studies, I'm mainly focused on improving my programming skills and becoming more familiar with the Unity Editor.
 
 ## Current Projects
-### [Roll A Ball 2](https://github.com/Doeugh/RollABall2)
+### [Sphere Games Re-Inked](https://github.com/Doeugh/RollABall2)
 > **Built with:** Unity · C#
 > 
-> This project returns to the concept of using Unity's Roll A Ball tutorial and expanding on it
+> This project is a remaster of my old Sphere games project, based on Unity's Roll a Ball tutorial
 
 
 ### [UnCloudy Valley](https://github.com/Doeugh/UnCloudyValley)
