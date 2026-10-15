@@ -87,6 +87,10 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 > From my Baked Lighting Test
 
+### <img src="./Images/TheSurgeryImage.png" alt="Triggered Events Image" width="500">
+
+> From The Surgery project
+
 More coming soon...
 
 </details>
