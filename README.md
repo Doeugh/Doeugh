@@ -91,7 +91,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 > From The Surgery project
 
-### <img src="./Images/UnitySFXImage.png" alt="Unity SFX Image" width="500">
+### <img src="./Images/UnitySFXTest.png" alt="Unity SFX Image" width="500">
 
 > From my Unity SFX Test
 
