@@ -11,7 +11,7 @@ I mainly code in C#, but I've also worked with;
 During my studies, I'm mainly focused on improving my programming skills and becoming more familiar with the Unity Editor.
 
 ## Current Projects
-### [Sphere Games Re-Inked](https://github.com/Doeugh/UnCloudyValley)
+### [Sphere Games Re-Inked](https://www.youtube.com/watch?v=EX2NQWmIsG4)
 > **Built with:** Unity · C#
 > 
 > This project is a remaster of my old Sphere games project, based on Unity's Roll a Ball tutorial
