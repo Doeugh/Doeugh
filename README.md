@@ -95,6 +95,10 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 > From my Unity SFX Test
 
+### <img src="./Images/UnityTimeLineEvent.gif" alt="Unity Timeline Event GIF" width="500">
+
+> From my Unity Timeline Test
+
 More coming soon...
 
 </details>
