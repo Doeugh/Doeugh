@@ -15,6 +15,14 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 > **Built with:** Unity · C#
 > 
 > This project is a remaster of my old Sphere games project, based on Unity's Roll a Ball tutorial
+<details>
+<summary>Click to view more</summary>
+
+[![Sphere Games Re-Inked](./Images/CountrySideBakeryThumbnail.png)]([https://www.youtube.com/watch?v=LOdNJT-4Am8&list=PLjWvuxl1KjdDAQfzHqSxDSf5vPZs5V8qO](https://www.youtube.com/watch?v=EX2NQWmIsG4&list=PLRwbMqLodTPA))
+
+> Dev Log playlist for Sphere Games Re-Inked
+
+</details>
 
 
 ### [UnCloudy Valley](https://github.com/Doeugh/UnCloudyValley)
