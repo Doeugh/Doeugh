@@ -18,7 +18,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 <details>
 <summary>Click to view more</summary>
 
-[![Sphere Games Re-Inked](./Images/CountrySideBakeryThumbnail.png)]([https://www.youtube.com/watch?v=LOdNJT-4Am8&list=PLjWvuxl1KjdDAQfzHqSxDSf5vPZs5V8qO](https://www.youtube.com/watch?v=EX2NQWmIsG4&list=PLRwbMqLodTPA))
+[![Sphere Games Re-Inked](./Images/SphereGamesRe-InkedMainMenu.png)]([https://www.youtube.com/watch?v=LOdNJT-4Am8&list=PLjWvuxl1KjdDAQfzHqSxDSf5vPZs5V8qO](https://www.youtube.com/watch?v=EX2NQWmIsG4&list=PLRwbMqLodTPA))
 
 > Dev Log playlist for Sphere Games Re-Inked
 
