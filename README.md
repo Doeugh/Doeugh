@@ -88,28 +88,16 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 ## Image Gallery
 
-<details>
-<summary>Click to view Image Gallery</summary>
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
 
-### <img src="./Images/BakedLighting1.png" alt="Baked Lighting" width="500">
+  <img src="/Images/TheSurgeryImage.png" width="200">
+  <img src="/Images/UnitySFXTest.png" width="200">
+  <img src="/Images/UnityTimeLineEvent.gif" width="200">
+  <img src="image4.png" width="200">
+  <img src="image5.png" width="200">
 
-> From my Baked Lighting Test
+</div>
 
-### <img src="./Images/TheSurgeryImage.png" alt="Triggered Events Image" width="500">
-
-> From The Surgery project
-
-### <img src="./Images/UnitySFXTest.png" alt="Unity SFX Image" width="500">
-
-> From my Unity SFX Test
-
-### <img src="./Images/UnityTimeLineEvent.gif" alt="Unity Timeline Event GIF" width="500">
-
-> From my Unity Timeline Test
-
-More coming soon...
-
-</details>
 
 ## Contact Me
 Email me at DoucetteXander@gmail.com
