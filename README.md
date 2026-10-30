@@ -90,11 +90,10 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
 
+  <img src="/Images/BakedLighting1.png" width="200">
   <img src="/Images/TheSurgeryImage.png" width="200">
   <img src="/Images/UnitySFXTest.png" width="200">
   <img src="/Images/UnityTimeLineEvent.gif" width="200">
-  <img src="image4.png" width="200">
-  <img src="image5.png" width="200">
 
 </div>
 
