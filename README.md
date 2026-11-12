@@ -17,6 +17,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
+![Crocotile 3D](https://img.shields.io/badge/Crocotile%203D-4A9B83?style=flat&logoColor=white)
 
 ## Current Projects
 ### [Sphere Games Re-Inked](https://github.com/Doeugh/RollABall2)
