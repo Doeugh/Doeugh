@@ -6,7 +6,7 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 
 ## Languages & Tools I Know
 ### Languages
-![C#](https://shields.io) ![Python](https://shields.io) ![Javascript](https://shields.io) ![Html](https://shields.io) ![CSS](https://shields.io)
+![C#](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![HTML](https://shields.io) ![CSS](https://shields.io)
 
 ### Engines
 ![Unity](https://shields.io)
