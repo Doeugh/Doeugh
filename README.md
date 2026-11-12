@@ -4,8 +4,15 @@ Hey, I'm Xander. I'm currently a second-year student at NSCC Truro, studying Gam
 I started making games when I was 11 using Scratch, and have since moved on to C# and Unity. Since then, I've worked on a variety of projects, ranging from 2D and 3D Unity games to simple console programs.
 During my studies, I'm mainly focused on improving my programming skills and becoming more familiar with the Unity Editor.
 
-## Languages I know
-```C++``` ```Python``` ```Javascript``` ```html``` ```CSS```
+## Languages & Tools I use
+### Languages
+```C#``` ```Python``` ```Javascript``` ```html``` ```CSS```
+
+### Engines
+```Unity```
+
+### Developer Tools
+```Visual Studio```
 
 ## Current Projects
 ### [Sphere Games Re-Inked](https://github.com/Doeugh/RollABall2)
