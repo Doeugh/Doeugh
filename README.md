@@ -1,5 +1,5 @@
 ## About Me 
-Hey, I'm Xander. I'm currently a second-year student at NSCC Truro, studying Game Programming.
+Hey, I'm Xander. I'm currently a Student Game Developer
 
 I started making games when I was 11 using Scratch, and have since moved on to C# and Unity. Since then, I've worked on a variety of projects, ranging from 2D and 3D Unity games to simple console programs. I mainly use C# and the unity engine.
 
