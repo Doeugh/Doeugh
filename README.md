@@ -14,7 +14,9 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Engines & Developer Tools
-```Unity``` ```Visual Studio``` ```Aseprite```
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
 
 ## Current Projects
 ### [Sphere Games Re-Inked](https://github.com/Doeugh/RollABall2)
