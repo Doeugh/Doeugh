@@ -18,11 +18,14 @@ During my studies, I'm mainly focused on improving my programming skills and bec
 ### Engines
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat&logo=robloxstudio&logoColor=white)
 
 ### Developer Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat&logo=github&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
 ![Crocotile 3D](https://img.shields.io/badge/Crocotile%203D-4A9B83?style=flat&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 
 ## Current Projects
 ### [Sphere Games Re-Inked](https://github.com/Doeugh/RollABall2)
